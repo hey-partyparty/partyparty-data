@@ -1,6 +1,7 @@
 {
     "title": "partyparty",
     "games": ["speed_quiz", "spin_the_bottle"],
+    "spin_the_bottle": {"title": "병돌리기", "description": "병돌리기"},
     "speed_quiz": {
         "title": "스피드 퀴즈",
         "description": "빠르게 제시어를 맞추는 게임",
